@@ -6,11 +6,11 @@
 
 <br/><br/>
 
-<a href="https://discord.gg/justhemang"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/xherxd"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://instagram.com/xhertxd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/hemang-luthra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@xHertx"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-<a href="https://github.com/xHertx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://youtube.com/@xHertxd"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://github.com/xHertxd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:xhertxd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -36,11 +36,11 @@ roles:
   - Video Editor & Motion Graphics Specialist
   - Full-Stack Web Developer
   - President @ OPCODE
-  - Founder @ Kaelor Media
+  - Founder @ Kaelor Studio
 location: India 🇮🇳
 focus: [Commercial Video Editing, Full-Stack Web Apps, Motion Graphics, Automation]
 reach_me: xhertxd@gmail.com
-portfolio: https://hertx.vercel.app
+portfolio: https://xhertxd.me
 ```
 
 - 🎬 **Video Editing & Motion Graphics**: Commercial cuts, DaVinci Resolve color grading, Premiere Pro & After Effects visual FX.
