@@ -18,9 +18,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhertx/xhertx/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xhertx/xhertx/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xhertx/xhertx/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhertxd/xhertxd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xhertxd/xhertxd/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xhertxd/xhertxd/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 <br/>
@@ -74,16 +74,16 @@ portfolio: https://xhertxd.me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xhertx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhertx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xhertxd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhertxd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42.5%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=xhertx&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=xhertxd&theme=tokyonight&hide_border=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/xhertx/xhertx/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/xhertxd/xhertxd/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
@@ -95,7 +95,7 @@ portfolio: https://xhertxd.me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=xhertx&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=xhertxd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
@@ -123,7 +123,7 @@ I'm always open to collaborating on video productions, web applications, or crea
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=xhertx&icon=2&color=38BDF8&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=xhertxd&icon=2&color=38BDF8&style=for-the-badge&label=Profile+Views)
 
 <br/><br/>
 
